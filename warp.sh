@@ -1145,7 +1145,7 @@ Print_Usage() {
 Cloudflare WARP Installer [${shVersion}]
 
 USAGE:
-    bash <(curl -fsSL https://raw.githubusercontent.com/P3TERX/warp.sh/main/warp.sh) [SUBCOMMAND]
+    bash <(curl -fsSL https://raw.githubusercontent.com/babafeng/zizizi/main/warp.sh) [SUBCOMMAND]
 
 SUBCOMMANDS:
     install         Install Cloudflare WARP Official Linux Client
